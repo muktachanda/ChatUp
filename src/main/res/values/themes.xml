@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ChatUp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Add any customizations or overrides here -->
+    </style>
+</resources>
